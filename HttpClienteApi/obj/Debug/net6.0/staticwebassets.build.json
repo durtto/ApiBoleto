@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NqYkGbCwJwK4v94mD8ZICf99I61OguIEhrrabGzIqa0=",
+  "Source": "HttpClienteApi",
+  "BasePath": "_content/HttpClienteApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
