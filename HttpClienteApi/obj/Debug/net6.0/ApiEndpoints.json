@@ -18,5 +18,15 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "HttpClienteApi.Controllers.TokenController",
+    "Method": "GetToken",
+    "RelativePath": "Token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

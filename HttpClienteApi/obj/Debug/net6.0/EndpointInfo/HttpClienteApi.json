@@ -42,6 +42,18 @@
           }
         }
       }
+    },
+    "/Token": {
+      "post": {
+        "tags": [
+          "Token"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
     }
   },
   "components": {
