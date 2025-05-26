@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\controllers\\convenioclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\controllers\\convenioclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\services\\icomunicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\services\\icomunicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\models\\boletomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\models\\boletomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\services\\comunicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\services\\comunicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\models\\accesstokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|solutionrelative:httpclienteapi\\models\\accesstokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F296C80C-EAF0-429A-B92C-6D02F0ECEC64}|HttpClienteApi\\HttpClienteApi.csproj|d:\\estudo\\c#\\boleto\\apiboleto\\httpclienteapi\\httpclienteapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,72 +46,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConvenioClienteController.cs",
-              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Controllers\\ConvenioClienteController.cs",
-              "RelativeDocumentMoniker": "HttpClienteApi\\Controllers\\ConvenioClienteController.cs",
-              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Controllers\\ConvenioClienteController.cs",
-              "RelativeToolTip": "HttpClienteApi\\Controllers\\ConvenioClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T21:19:07.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Program.cs",
-              "RelativeDocumentMoniker": "HttpClienteApi\\Program.cs",
-              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Program.cs",
-              "RelativeToolTip": "HttpClienteApi\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T21:18:00.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Startup.cs",
-              "RelativeDocumentMoniker": "HttpClienteApi\\Startup.cs",
-              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Startup.cs",
-              "RelativeToolTip": "HttpClienteApi\\Startup.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIAwwBYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T21:17:34.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "TokenController.cs",
               "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Controllers\\TokenController.cs",
               "RelativeDocumentMoniker": "HttpClienteApi\\Controllers\\TokenController.cs",
               "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Controllers\\TokenController.cs",
               "RelativeToolTip": "HttpClienteApi\\Controllers\\TokenController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T21:14:28.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "HttpClienteApi\\Services\\AuthService.cs",
               "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Services\\AuthService.cs",
               "RelativeToolTip": "HttpClienteApi\\Services\\AuthService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowBMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowBMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T21:13:18.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T21:13:18.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Startup.cs",
+              "RelativeDocumentMoniker": "HttpClienteApi\\Startup.cs",
+              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Startup.cs",
+              "RelativeToolTip": "HttpClienteApi\\Startup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAnwCAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:17:34.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Program.cs",
+              "RelativeDocumentMoniker": "HttpClienteApi\\Program.cs",
+              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Program.cs",
+              "RelativeToolTip": "HttpClienteApi\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:18:00.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessTokenModel.cs",
+              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Models\\AccessTokenModel.cs",
+              "RelativeDocumentMoniker": "HttpClienteApi\\Models\\AccessTokenModel.cs",
+              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Models\\AccessTokenModel.cs",
+              "RelativeToolTip": "HttpClienteApi\\Models\\AccessTokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:31:27.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HttpClienteApi",
               "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\HttpClienteApi.csproj",
               "RelativeDocumentMoniker": "HttpClienteApi\\HttpClienteApi.csproj",
@@ -126,29 +118,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IComunicationServices.cs",
-              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Services\\IComunicationServices.cs",
-              "RelativeDocumentMoniker": "HttpClienteApi\\Services\\IComunicationServices.cs",
-              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Services\\IComunicationServices.cs",
-              "RelativeToolTip": "HttpClienteApi\\Services\\IComunicationServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "BoletoModel.cs",
+              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Models\\BoletoModel.cs",
+              "RelativeDocumentMoniker": "HttpClienteApi\\Models\\BoletoModel.cs",
+              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Models\\BoletoModel.cs",
+              "RelativeToolTip": "HttpClienteApi\\Models\\BoletoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T19:39:47.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ComunicationServices.cs",
-              "DocumentMoniker": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Services\\ComunicationServices.cs",
-              "RelativeDocumentMoniker": "HttpClienteApi\\Services\\ComunicationServices.cs",
-              "ToolTip": "D:\\Estudo\\C#\\Boleto\\ApiBoleto\\HttpClienteApi\\Services\\ComunicationServices.cs",
-              "RelativeToolTip": "HttpClienteApi\\Services\\ComunicationServices.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T19:39:47.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T23:31:28.98Z"
             }
           ]
         },

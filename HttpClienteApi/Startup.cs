@@ -30,11 +30,10 @@ namespace HttpClienteApi
         {
 
             services.AddControllers();
-            services.AddHttpClient<IComunicationServices>();
+       
             services.AddHttpClient<IExceptionHandler>();
           
 
-            services.AddScoped<IComunicationServices, ComunicationServices>();
             services.AddScoped<IExceptionHandler, ExceptionHandler>();
 
             services.AddSwaggerGen(c =>
